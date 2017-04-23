@@ -1,0 +1,7 @@
+id,type,description
+1,Weekly,Weekly option
+2,Monthly,Monthly option
+3,Semi Monthly,Semi Monthly option
+4,Quarterly,Quarterly option
+5,Other,Other option
+6,Maturity,Maturity option

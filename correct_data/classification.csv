@@ -1,0 +1,6 @@
+id,param1,param2,param3,param4,description
+1,0,0,0,0,Normal
+2,0,0,0,1,Willful Default
+3,0,0,1,0,Low Balance
+4,0,1,0,0,Low Probability
+11,0,1,0,1,New Home

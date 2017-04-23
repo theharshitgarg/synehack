@@ -1,0 +1,8 @@
+id,frequency,description
+1,DAILY,daily
+2,WEEKLY,weekly
+3,FORTNIGHTLY,fortnightly
+4,MONTHLY,monthly
+5,QUATERLY,quaterly
+6,HALF-YEARLY,biannual
+7,YEARLY,yearly
