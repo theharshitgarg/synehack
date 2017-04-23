@@ -21,7 +21,7 @@ def collect_data():
 def sanitize_data():
 	pass
 
-prefix = "/home/esthenos/prog/hacker_earth/synehack/"
+prefix = "/home/esthenos/prog/hacker_earth/synehack/final_submission/"
 data_collect = pd.read_csv(prefix+"correct_data/"+"customerdetails.csv")
 #print data_collect.head()
 credit_card_info = pd.read_csv(prefix+"correct_data/"+"creditcardinfo.csv")
@@ -57,3 +57,14 @@ pd.merge(customer_info, card_transactions, on='ID')
 print customer_info.info()
 print customer_info.head()
 
+X = train_data
+X.drop('FIRSTNAME', axis=1, inplace=True)
+X.drop('MIDDLENAME', axis=1, inplace=True)
+X.drop('LASTNAME', axis=1, inplace=True)
+X.drop('ALIAS', axis=1, inplace=True)
+X.drop('twitterId', axis=1, inplace=True)
+print X.info()
+print X.values
+Y = list(train_data.columns.values)
+clf = DecisionTreeClassifier()
+clf = clf.fit(X, ['transactionstatus'])
