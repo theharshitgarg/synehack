@@ -21,7 +21,7 @@ Pyrex==0.9.8.5
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 WTForms==2.1
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 ZSI==2.1-a1
 adium-theme-ubuntu==0.3.4
 amqp==1.4.9
