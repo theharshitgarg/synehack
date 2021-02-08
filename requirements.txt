@@ -56,7 +56,7 @@ gdata==2.0.18
 git-review==1.25.0
 gyp==0.1
 html5lib==0.999
-httplib2==0.8
+httplib2==0.19.0
 ipython==1.2.1
 itsdangerous==0.24
 jmespath==0.9.0
