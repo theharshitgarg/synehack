@@ -106,7 +106,7 @@ pyxdg==0.25
 reportlab==3.0
 requests==2.13.0
 roman==2.0.0
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 saws==0.4.1
 sessioninstaller==0.0.0
