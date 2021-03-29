@@ -16,7 +16,7 @@ PyChart==1.39
 PyOpenGL==3.0.2
 PyWebDAV==0.9.8
 PyYAML==3.12
-Pygments==2.2.0
+Pygments==2.7.4
 Pyrex==0.9.8.5
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
