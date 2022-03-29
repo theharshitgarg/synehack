@@ -71,7 +71,7 @@ murmurhash==0.26.4
 numpy==1.8.2
 oauthlib==0.6.1
 oneconf==0.3.7.14.04.1
-paramiko==2.1.1
+paramiko==2.10.1
 pathlib==1.0.1
 pathtools==0.1.2
 pbr==1.10.0
