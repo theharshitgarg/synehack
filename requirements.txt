@@ -117,7 +117,7 @@ software-center-aptd-plugins==0.0.0
 spacy==1.7.3
 stevedore==1.19.1
 suds==0.4.1
-supervisor==3.0b2
+supervisor==3.0.1
 system-service==0.1.6
 termcolor==1.1.0
 thinc==6.5.2
